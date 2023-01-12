@@ -1,1 +1,0 @@
-python -m pytest -v --driver Chrome --driver-path D:\magdark\PYTHON\Projects\pytest_RT_28\chromedriver.exe test_code.py
